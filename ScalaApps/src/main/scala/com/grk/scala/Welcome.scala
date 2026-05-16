@@ -5,3 +5,4 @@ object Welcome {
     println(s"""Hello Welcome to Scala Programming""")
   }
 }
+
